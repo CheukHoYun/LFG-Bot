@@ -2,6 +2,11 @@
 
 A Discord bot designed for **Looking For Group (LFG)** matchmaking across multiple games. Users can quickly post LFG requests and join voice channels. 
 
+The project was made for a friend's Discord channel, where simplified Chinese was the major language. Therefore, the majority of the bot's menu texts are in Chinese. Feel free to localize it for your own needs. 
+
+![image](https://github.com/user-attachments/assets/5d46331d-e06b-48b2-92f1-04a4a0cd32b9)
+
+
 ## Features
 - **Game Selection Menu**: Users choose a game, rank, and mode through an interactive UI.
 - **LFG Request Management**: Users can create, update, and delete LFG requests.
